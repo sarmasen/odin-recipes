@@ -10,3 +10,5 @@ ok, so i have mistakenly made a repository for this project under Downloads fold
 repository link to git. Anyways, lets not do that again and start on this site creation.
 
 testing terminal inside the VScode.
+
+does git commit now work within VScode?
